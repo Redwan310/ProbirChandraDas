@@ -1,2 +1,2 @@
 This is a simple portfolio webpage created by my friends
-redwan310.github.io/probirchandradas/
+https://redwan310.github.io/ProbirChandraDas/
